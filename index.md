@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Implicit Association Test
 ---
-This is where you will take the IAT. 
+The Implicit Association Test measures how strong our implicit or automatic associations are to stimuli. Click the button below to continue to the task. 
